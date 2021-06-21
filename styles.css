@@ -1,0 +1,25 @@
+body {
+    margin-top: 3em;
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernovathemes/images/bg/b6.png");
+    user-select: none;
+}
+
+#buttons-container {
+    width: 60%;
+}
+
+#dice-container {
+    width: 60%;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.die {
+    display: inline-block;
+    text-align: center;
+    font-size: 300px;
+    line-height: .65;
+    cursor: pointer;
+}
